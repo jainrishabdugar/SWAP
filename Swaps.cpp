@@ -44,7 +44,7 @@ int main() {
                             swap(s[i],s[j]) ;
                             for (int k = 0; k <= m_position; ++k) {
                             right_sum){
-                                swaps ++ ;
+                                swaps ++ 
                             }
                             swap(s[i],s[j]) ;
                             left_sum = 0 ;
